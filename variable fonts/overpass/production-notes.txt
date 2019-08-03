@@ -1,0 +1,15 @@
+Overpass Variable
+Initial version 3.060 (working draft)
+by Delve Withringon
+08-02-2019
+
+Overview of work performed
+- Added 'Weight' and 'Slant' axes to glyphs source file
+- Revised outlines to achieve inter-axes compatibility
+- Revised outlines as needed to eliminate minor errors discovered
+- Updated Lcaron mark to preferred form
+- Added "Medium" 500 weight instances to uprights and italics
+- Revised Axes Coordinates to correspond to WeightClass
+    Note: Need to verify if this has changed the actual weight of the genereated instances and revise if necessary
+- Other minor fixes performed
+- Exported overpass-variable.ttf
