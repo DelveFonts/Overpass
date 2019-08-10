@@ -1,0 +1,14 @@
+Overpass Mono Variable
+Initial version 3.060 (working draft)
+by Delve Withringon
+08-09-2019
+
+Overview of work performed
+- Added 'Weight' axis to glyphs source file
+- Revised outlines to achieve compatibility
+- Revised outlines as needed to eliminate minor errors discovered
+- Added "Medium" 500 weight instance
+- Revised Axes Coordinates to correspond to WeightClass
+    Note: Need to verify if this has changed the actual weight of the generated instances and revise if necessary
+- Other minor fixes performed
+- Exported Overpass Mono Variable.ttf
