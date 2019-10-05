@@ -1,4 +1,21 @@
 Overpass Variable
+version 3.100
+by Delve Withringon
+10-05-2019
+
+Overview of work performed
+- Glyph repertoire extended to Google Fonts Latin Plus
+- Revised outlines to achieve inter-axes compatibility
+- Revised outlines as needed to eliminate minor errors discovered
+- Replaced outlines for Regular Master to match static weights and "weightClass" Axes Coordinates
+    Note: Need to also Bold outlines for next version
+- Other minor fixes performed
+- Exported Overpass Variable v3-100.ttf
+
+###
+
+
+Overpass Variable
 Initial version 3.060 (working draft)
 by Delve Withringon
 08-02-2019
@@ -13,3 +30,5 @@ Overview of work performed
     Note: Need to verify if this has changed the actual weight of the genereated instances and revise if necessary
 - Other minor fixes performed
 - Exported overpass-variable.ttf
+
+###
