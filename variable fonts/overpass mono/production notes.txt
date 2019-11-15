@@ -1,4 +1,16 @@
 Overpass Mono Variable
+Production version v3.160
+by Delve Withringon
+10-29-2019
+
+- Extended encoding to Google Fonts Latin Plus 
+- Added 'Whitespace' characters
+- Revised vertical metrics as per FontBakery recommends but still needs to betested to verify accuracy
+- Fix combining accents for Vietnamese (use 'top_viet' anchors)
+
+###
+
+Overpass Mono Variable
 Initial version 3.060 (working draft)
 by Delve Withringon
 08-09-2019
