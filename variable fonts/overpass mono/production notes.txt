@@ -7,6 +7,9 @@ by Delve Withringon
 - Added 'Whitespace' characters
 - Revised vertical metrics as per FontBakery recommends but still needs to betested to verify accuracy
 - Fix combining accents for Vietnamese (use 'top_viet' anchors)
+- Other minor fixes performed
+- Exported Overpass Mono Variable v3-160.ttf
+- Note: Need to revise Bold outlines for next version
 
 ###
 
