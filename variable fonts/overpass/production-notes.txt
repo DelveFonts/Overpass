@@ -1,4 +1,18 @@
 Overpass Variable
+Production version 3.160
+by Delve Withringon
+10-29-2019
+
+- Revised vertical metrics as per FontBakery recommends but still needs to betested to verify accuracy
+- Fix combining accents for Vietnamese (use 'top_viet' anchors)
+- Other minor fixes performed
+- Exported Overpass Variable v3-160.ttf
+- Note: Still need to revise Bold outlines for next version
+
+###
+
+
+Overpass Variable
 version 3.100
 by Delve Withringon
 10-05-2019
